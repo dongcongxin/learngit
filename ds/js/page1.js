@@ -5,7 +5,7 @@ window.onload=function(){
     //获取当前日期
     var d = new Date();
     var f = d.getFullYear();
-    var birth = 1995;
+    var birth = 1973;
     document.write("董新从的年龄是:"+parseInt(f-birth));
 }
 
